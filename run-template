@@ -1,0 +1,11 @@
+#!/bin/sh
+
+javac ./*.java
+
+{
+  date +%F
+  java -version
+  printf '%s\n\n' "--- Output ---"
+
+  java Main
+} > output 2>&1
