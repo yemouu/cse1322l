@@ -69,6 +69,7 @@ public class Main {
 
 		// Continue to give money until we can't anymore either by no longer having enough
 		// notes and coins or when amountNeeded is 0
+
 		while ((amountNeeded >= 20f) && (twenties.getQuantityOnHand() > 0)) {
 			amountNeeded -= 20f;
 			twenties.decreaseQuantity(1);
@@ -117,6 +118,8 @@ public class Main {
 			System.out.println("Give them a penny");
 		}
 
+		// Check if we have any left over. Check against 0.001 to avoid
+		// a floating point error
 		if (amountNeeded > 0.001f) {
 			System.out.println("I don't have enough money. I still owe you $"
 			                   + String.format("%4.2f", amountNeeded));
