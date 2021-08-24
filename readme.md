@@ -3,8 +3,8 @@ The following are submissions for CSE1322L. All code here is commented for so
 the reader can understand what is being done. If something is unclear feel free
 to create an issue.
 
-This repo can be found on both [GitHub](https://github.com/yemouu/CSE1322L) and
-[GitLab](https://gitlab.com/yemou/CSE1322L).
+This repo can be found on both [GitHub](https://github.com/yemouu/cse1322l) and
+[GitLab](https://gitlab.com/yemou/cse1322l).
 
 ## Cheating
 This repository was not made public until after the exam in an attempt to
@@ -27,6 +27,6 @@ All of my submissions are licensed under the public domain.
 ## My Setup
 The tools I used to complete this class.
   - 2021-08-21
-    - Editor: Kakoune/IntelliJ/Replit
-    - Java Version: openjdk 1.8.0_272/<IntelliJ openjdk here>/openjdk 11.0.11
-    - OS: Linux/Windows 10
+    - Editor: Kakoune/Replit
+    - Java Version: openjdk 1.8.0_272/openjdk 11.0.11
+    - OS: Linux
