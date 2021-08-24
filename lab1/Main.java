@@ -7,6 +7,8 @@ Name:       Kofi Hannam
 Lab#:       1
 */
 
+// 2021-08-21
+
 public class Main {
 	// Assignment input
 	public static char[][] make_forward() {

@@ -22,10 +22,11 @@ All of my submissions are licensed under the public domain.
 
 ## Assignments
   - [Lab 1](lab1/)
+  - [Assignment 1](assignment1/)
 
 ## My Setup
 The tools I used to complete this class.
-  - Sat Aug 21 2021
+  - 2021-08-21
     - Editor: Kakoune/IntelliJ/Replit
     - Java Version: openjdk 1.8.0_272/<IntelliJ openjdk here>/openjdk 11.0.11
     - OS: Linux/Windows 10
