@@ -23,6 +23,8 @@ All of my submissions are licensed under the public domain.
 ## Assignments
   - [Lab 1](lab1/)
   - [Assignment 1](assignment1/)
+  - [Lab 2](lab2/)
+  - [Lab 3](lab3/)
 
 ## My Setup
 The tools I used to complete this class.
