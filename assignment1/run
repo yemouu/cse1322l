@@ -1,6 +1,7 @@
 #!/bin/sh
 
-javac ./*.java
+rm -f output
+javac ./*.java || exit 1
 
 {
   date +%F
