@@ -16,7 +16,9 @@ I do not own any of the assignment questions. These questions belong to Kennesaw
 State University (as far as i know). If requested by a KSU representitive,
 questions will be removed from this repo.
 
-I DO NOT OWN ANY FILES PREFIXED WITH `KSU_`.
+I DO NOT OWN ANY FILES PREFIXED WITH `KSU_` OR THAT SAY `KSU PROVIDED FILE` ON THE
+FIRST LINE. THESE FILES BELONG TO KSU AND DO NOT NECESSARILY BELONG TO THE PUBLIC
+DOMAIN.
 
 All of my submissions are licensed under the public domain.
 
@@ -25,6 +27,7 @@ All of my submissions are licensed under the public domain.
   - [Assignment 1](assignment1/)
   - [Lab 2](lab2/)
   - [Lab 3](lab3/)
+  - [Assignment 2](assignment2/)
 
 ## My Setup
 The tools I used to complete this class.

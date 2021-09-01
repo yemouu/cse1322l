@@ -1,0 +1,64 @@
+2021-09-01
+openjdk version "1.8.0_272"
+OpenJDK Runtime Environment (build 1.8.0_272-b02)
+OpenJDK 64-Bit Server VM (build 25.272-b02, mixed mode)
+--- Output ---
+
+
+--- Run 1 ---
+How many letters are in the word?
+Do you want me to look for letters or a pattern?
+1. Letters
+2. Pattern
+What letters are in the word?
+It might be any of these...
+act
+art
+eat
+tax
+
+--- Run 2 ---
+How many letters are in the word?
+Do you want me to look for letters or a pattern?
+1. Letters
+2. Pattern
+What pattern is in the word?
+It might be any of these...
+apply
+happy
+
+--- Run 3 ---
+How many letters are in the word?
+Do you want me to look for letters or a pattern?
+1. Letters
+2. Pattern
+What letters are in the word?
+It might be any of these...
+act
+add
+age
+ago
+air
+all
+and
+any
+arm
+art
+ask
+bad
+bar
+can
+car
+day
+eat
+far
+law
+lay
+man
+may
+pay
+say
+sea
+tax
+war
+way
