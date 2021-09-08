@@ -3,8 +3,8 @@ The following are submissions for CSE1322L. All code here is commented for so
 the reader can understand what is being done. If something is unclear feel free
 to create an issue.
 
-This repo can be found on both [GitHub](https://github.com/yemouu/cse1322l) and
-[GitLab](https://gitlab.com/yemou/cse1322l).
+This repo can be found on both [GitLab](https://gitlab.com/yemou/cse1322l) and
+[GitHub](https://github.com/yemouu/cse1322l).
 
 ## Cheating
 This repository was not made public until after the exam in an attempt to
@@ -28,6 +28,7 @@ All of my submissions are licensed under the public domain.
   - [Lab 2](lab2/)
   - [Lab 3](lab3/)
   - [Assignment 2](assignment2/)
+  - [Lab 4](lab4/)
 
 ## My Setup
 The tools I used to complete this class.
