@@ -34,5 +34,9 @@ All of my submissions are licensed under the public domain.
 The tools I used to complete this class.
   - 2021-08-21
     - Editor: Kakoune/Replit
-    - Java Version: openjdk 1.8.0_272/openjdk 11.0.11
+    - Java Version: openjdk 1.8.0 272/openjdk 11.0.11
     - OS: Linux
+  - 2021-09-08
+    - Editor: Kakoune/Replit/IntelliJ
+    - Java Version: openjdk 1.8.0 272/openjdk 11.0.11/openjdk 16.0.2
+    - OS: Linux/Windows 10
