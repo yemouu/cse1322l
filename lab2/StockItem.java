@@ -65,7 +65,8 @@ public class StockItem {
 
 	@Override
 	public String toString() {
-		return "Item number: " + id + " is " + description + " has" + String.format(" %.2f ", price)
-		       + "we currently have " + quantity + " in stock";
+		return "Item number: " + id + " is " + description + " has"
+		       + String.format(" %.2f ", price) + "we currently have " + quantity
+		       + " in stock";
 	}
 }

@@ -35,8 +35,8 @@ public class Main {
 			celsius = temperature.getTempInC();
 			kelvin = temperature.getTempInK();
 
-			System.out.println("The current Heat Index is: " + fahrenheit + "f and " + celsius + "c and "
-			                   + kelvin + "k");
+			System.out.println("The current Heat Index is: " + fahrenheit + "f and "
+			                   + celsius + "c and " + kelvin + "k");
 		} else if (answer <= 50) {
 			System.out.println("What is the current wind speed in mph");
 			answer = input.nextDouble();
@@ -49,20 +49,22 @@ public class Main {
 			celsius = temperature.getTempInC();
 			kelvin = temperature.getTempInK();
 
-			System.out.println("The current Wind Chill is: " + fahrenheit + "f and " + celsius + "c and "
-			                   + kelvin + "k");
+			System.out.println("The current Wind Chill is: " + fahrenheit + "f and "
+			                   + celsius + "c and " + kelvin + "k");
 		} else {
 			celsius = temperature.getTempInC();
 			kelvin = temperature.getTempInK();
 
-			System.out.println("There is currently no HeatIndex nor WindChill. The temperature you entered"
-			                   + "is " + fahrenheit + "f and " + celsius + "c and " + kelvin + "k");
+			System.out.println("There is currently no HeatIndex nor WindChill. "
+			                   + "The temperature you entered" + "is " + fahrenheit
+			                   + "f and " + celsius + "c and " + kelvin + "k");
 		}
 	}
 
 	public static double calculateHeatIndex(double temperature, double humidity) {
-		final double c1 = -42.379, c2 = 2.04901523, c3 = 10.14333127, c4 = -0.22475541, c5 = -0.00683783,
-		             c6 = -0.05481717, c7 = 0.0012274, c8 = 0.00085282, c9 = -0.00000199;
+		final double c1 = -42.379, c2 = 2.04901523, c3 = 10.14333127, c4 = -0.22475541,
+		             c5 = -0.00683783, c6 = -0.05481717, c7 = 0.0012274, c8 = 0.00085282,
+		             c9 = -0.00000199;
 
 		return c1 + (c2 * temperature)
 		       + (c3 * humidity)

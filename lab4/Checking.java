@@ -23,7 +23,8 @@ public class Checking extends Account {
 		double new_balance = get_account_balance() - amount;
 
 		if (new_balance < 0 ) {
-			System.out.println("Charging an overdraft fee of $20 because account is below $0.");
+			System.out.println("Charging an overdraft fee of $20 because account is "
+			                   + "below $0.");
 			new_balance -= 20;
 		}
 

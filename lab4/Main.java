@@ -34,32 +34,38 @@ public class Main {
 
 			switch (selection) {
 				case 1:
-					System.out.println("How much would you like to withdraw from Checking?");
+					System.out.println("How much would you like to withdraw "
+					                   + "from Checking?");
 					amount = input.nextDouble();
 					checking.withdrawl(amount);
 					break;
 				case 2:
-					System.out.println("How much would you like to withdraw from Savings?");
+					System.out.println("How much would you like to withdraw "
+					                   + "from Savings?");
 					amount = input.nextDouble();
 					savings.withdrawl(amount);
 					break;
 				case 3:
-					System.out.println("How much would you like to deposit into Checking?");
+					System.out.println("How much would you like to deposit "
+					                   + "into Checking?");
 					amount = input.nextDouble();
 					checking.deposit(amount);
 					break;
 				case 4:
-					System.out.println("How much would you like to deposit into Savings?");
+					System.out.println("How much would you like to deposit "
+					                   + "into Savings?");
 					amount = input.nextDouble();
 					savings.deposit(amount);
 					break;
 				case 5:
-					System.out.println("Your balance for checking " + checking.get_account_number()
-					                   + " is " + checking.get_account_balance());
+					System.out.println("Your balance for checking "
+					                   + checking.get_account_number() + " is "
+					                   + checking.get_account_balance());
 					break;
 				case 6:
-					System.out.println("Your balance for savings " + savings.get_account_number()
-					                   + " is " + savings.get_account_balance());
+					System.out.println("Your balance for savings "
+					                   + savings.get_account_number() + " is "
+					                   + savings.get_account_balance());
 					break;
 				case 7:
 					savings.add_interest();

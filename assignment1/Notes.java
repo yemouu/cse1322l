@@ -44,6 +44,7 @@ public class Notes {
 
 	@Override
 	public String toString() {
-		return printPretty(getTotalValue()) + " in " + printPretty(denomination) + " notes";
+		return printPretty(getTotalValue()) + " in " + printPretty(denomination)
+		       + " notes";
 	}
 }

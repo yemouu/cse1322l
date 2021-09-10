@@ -59,7 +59,8 @@ public class Main {
 		                    + pennies.getTotalWeight();
 
 		System.out.println("Total Money is $" + String.format("%4.2f", totalValue)
-		                   + " total weight is " + String.format("%4.3f", totalWeight) + "oz");
+		                   + " total weight is " + String.format("%4.3f", totalWeight)
+		                   + "oz");
 
 		Scanner input = new Scanner(System.in);
 		float amountNeeded;

@@ -50,7 +50,7 @@ public class Coins {
 
 	@Override
 	public String toString() {
-		return printPretty(getTotalValue()) + " in "
-		       + printPretty(denomination) + " coins";
+		return printPretty(getTotalValue()) + " in " + printPretty(denomination)
+		       + " coins";
 	}
 }
