@@ -30,6 +30,7 @@ All of my submissions are licensed under the public domain.
   - [Assignment 2](assignment2/)
   - [Lab 4](lab4/)
   - [Assignment 3](assignment3/)
+  - [Lab 5](lab5/)
 
 ## My Setup
 The tools I used to complete this class.
