@@ -1,0 +1,19 @@
+2021-09-09
+openjdk version "1.8.0_272"
+OpenJDK Runtime Environment (build 1.8.0_272-b02)
+OpenJDK 64-Bit Server VM (build 25.272-b02, mixed mode)
+--- Output ---
+
+--- Run 1 ---
+What is the current temperature in fahrenheit
+What is the current humidity percentage (0-100)
+The current Heat Index is: 83.54433599999993f and 28.635742222222184c and 301.78574222222215k
+
+--- Run 2 ---
+What is the current temperature in fahrenheit
+What is the current wind speed in mph
+The current Wind Chill is: 23.72714425963738f and -4.596030966868122c and 268.55396903313186k
+
+--- Run 3 ---
+What is the current temperature in fahrenheit
+There is currently no HeatIndex nor WindChill. The temperature you enteredis 65.0f and 18.333333333333336c and 291.4833333333333k
