@@ -14,9 +14,9 @@ import java.util.Scanner;
 
 public class myCollection {
 	public static void main(String[] args) {
-		int number;
+		int number, index = 0;
 
-		ArrayList<Item> array = new ArrayList<Item>();
+		Item[] collection = new Item[5];
 		Scanner input = new Scanner(System.in);
 		String author, bookOrPeriodical, title;
 
@@ -35,7 +35,8 @@ public class myCollection {
 				number = input.nextInt();
 				input.nextLine();
 
-				array.add(new Book(title, author, number));
+				collection[index] = new Book(title, author, number);
+				index++;
 			} else if (bookOrPeriodical.equals("P")) {
 				System.out.println("Please enter the name of the Periodical");
 				title = input.nextLine();
@@ -44,12 +45,13 @@ public class myCollection {
 				number = input.nextInt();
 				input.nextLine();
 
-				array.add(new Periodical(title, number));
+				collection[index] = new Periodical(title, number);
+				index++;
 			}
 		}
 
 		System.out.println("Your Items:");
-		for (Item item : array) {
+		for (Item item : collection) {
 			System.out.println(item.getListing() + "\n");
 		}
 	}
