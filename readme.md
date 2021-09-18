@@ -31,7 +31,7 @@ All of my submissions are licensed under the public domain.
   - [Lab 4](lab4/)
   - [Assignment 3](assignment3/)
   - [Lab 5](lab5/)
-    - TODO: add uml diagram
+  - [Assignment 4](assignment4/)
 
 ## My Setup
 The tools I used to complete this class.
