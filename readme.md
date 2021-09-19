@@ -23,15 +23,16 @@ DOMAIN.
 All of my submissions are licensed under the public domain.
 
 ## Assignments
-  - [Lab 1](lab1/)
-  - [Assignment 1](assignment1/)
-  - [Lab 2](lab2/)
-  - [Lab 3](lab3/)
-  - [Assignment 2](assignment2/)
-  - [Lab 4](lab4/)
-  - [Assignment 3](assignment3/)
-  - [Lab 5](lab5/)
-  - [Assignment 4](assignment4/)
+  - [Lab 1](lab1)
+  - [Assignment 1](assignment1)
+  - [Lab 2](lab2)
+  - [Lab 3](lab3)
+  - [Assignment 2](assignment2)
+  - [Lab 4](lab4)
+  - [Assignment 3](assignment3)
+  - [Lab 5](lab5)
+  - [Assignment 4](assignment4)
+  - [Lab 6](lab6)
 
 ## My Setup
 The tools I used to complete this class.
@@ -42,4 +43,8 @@ The tools I used to complete this class.
   - 2021-09-08
     - Editor: Kakoune/Replit/IntelliJ
     - Java Version: openjdk 1.8.0 272/openjdk 11.0.11/openjdk 16.0.2
+    - OS: Linux/Windows 10
+  - 2021-09-19
+    - Editor: Kakoune/Replit/IntelliJ
+    - Java Version: openjdk 11.0.12/openjdk 11.0.11/openjdk 16.0.2
     - OS: Linux/Windows 10

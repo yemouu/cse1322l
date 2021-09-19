@@ -8,5 +8,5 @@ javac ./*.java || exit 1
 	java -version
 	printf '%s\n\n' "--- Output ---"
 
-	java Main
+	printf '%s\n' "10" | java Main
 } > output 2>&1
