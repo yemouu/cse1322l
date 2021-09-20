@@ -1,6 +1,6 @@
 #!/bin/sh
 
-rm -f output
+rm -f output.txt
 javac ./*.java || exit 1
 
 {
@@ -8,5 +8,5 @@ javac ./*.java || exit 1
 	java -version
 	printf '%s\n\n' "--- Output ---"
 
-	java Main
-} > output 2>&1
+	printf '%s\n' "10" | java Main
+} > output.txt 2>&1

@@ -1,6 +1,6 @@
 #!/bin/sh
 
-rm -f output
+rm -f output.txt
 javac ./*.java || exit 1
 
 {
@@ -10,4 +10,4 @@ javac ./*.java || exit 1
 
 	printf '%s\n' "I Need to figure out a way to test these properly. (Produce the same output)"
 	#java Main
-} > output 2>&1
+} > output.txt 2>&1

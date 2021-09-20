@@ -7,8 +7,8 @@ do
 	[ -d "$dir" ] || continue
 
 	# If a run script exist, run it in the background
-	[ -x "$dir/run" ] && {
+	[ -x "$dir/run.sh" ] && {
 		#printf '%s\n' "$dir: Executed"
-		( cd "$dir" && ./run) &
+		( cd "$dir" && ./run.sh) &
 	}
 done
