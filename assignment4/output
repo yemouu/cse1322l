@@ -1,7 +1,7 @@
-2021-09-17
-openjdk version "1.8.0_272"
-OpenJDK Runtime Environment (build 1.8.0_272-b02)
-OpenJDK 64-Bit Server VM (build 25.272-b02, mixed mode)
+2021-09-19
+openjdk version "11.0.12" 2021-07-20
+OpenJDK Runtime Environment (build 11.0.12+5-void-r2)
+OpenJDK 64-Bit Server VM (build 11.0.12+5-void-r2, mixed mode)
 --- Output ---
 
 I Need to figure out a way to test these properly. (Produce the same output)
