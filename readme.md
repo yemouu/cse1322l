@@ -33,6 +33,7 @@ All of my submissions are licensed under the public domain.
   - [Lab 5](lab5)
   - [Assignment 4](assignment4)
   - [Lab 6](lab6)
+  - [Assignment 5](assignment5)
   - [Lab 7](lab7)
 
 ## My Setup
