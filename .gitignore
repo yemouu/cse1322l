@@ -2,3 +2,5 @@
 .idea
 *.iml
 out
+# Our Graduate Teaching Assitant wants all classes in one file...
+submission-ready
