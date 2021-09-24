@@ -14,7 +14,7 @@ public class BasicGame implements IMove {
 	public BasicGame() {
 		myBoard = new Board4x4();
 		x = y = 2;
-		myBoard.theBoard[x][y] = 'P';
+		myBoard.setCell(x, y, 'P');
 	}
 
 	public BasicGame(String size) {
@@ -32,14 +32,14 @@ public class BasicGame implements IMove {
 				break;
 		}
 
-		myBoard.theBoard[x][y] = 'P';
+		myBoard.setCell(x, y, 'P');
 	}
 
 	@Override
 	public boolean moveUp() {
 		if ((x - 1) >= 0) {
-			myBoard.theBoard[x][y] = ' ';
-			myBoard.theBoard[--x][y] = 'P';
+			myBoard.setCell(x, y, ' ');
+			myBoard.setCell(--x, y, 'P');
 			return true;
 		} else {
 			System.out.println("You can't go there!");
@@ -50,8 +50,8 @@ public class BasicGame implements IMove {
 	@Override
 	public boolean moveDown() {
 		if ((x + 1) < myBoard.getHeight()) {
-			myBoard.theBoard[x][y] = ' ';
-			myBoard.theBoard[++x][y] = 'P';
+			myBoard.setCell(x, y, ' ');
+			myBoard.setCell(++x, y, 'P');
 			return true;
 		} else {
 			System.out.println("You can't go there!");
@@ -62,8 +62,8 @@ public class BasicGame implements IMove {
 	@Override
 	public boolean moveLeft() {
 		if ((y - 1) >= 0) {
-			myBoard.theBoard[x][y] = ' ';
-			myBoard.theBoard[x][--y] = 'P';
+			myBoard.setCell(x, y, ' ');
+			myBoard.setCell(x, --y, 'P');
 			return true;
 		} else {
 			System.out.println("You can't go there!");
@@ -74,8 +74,8 @@ public class BasicGame implements IMove {
 	@Override
 	public boolean moveRight() {
 		if ((y + 1) < myBoard.getWidth()) {
-			myBoard.theBoard[x][y] = ' ';
-			myBoard.theBoard[x][++y] = 'P';
+			myBoard.setCell(x, y, ' ');
+			myBoard.setCell(x, ++y, 'P');
 			return true;
 		} else {
 			System.out.println("You can't go there!");

@@ -11,7 +11,7 @@ Assignment#: 5
 
 public abstract class Board {
 	private int rows, columns;
-	public char[][] theBoard;
+	private char[][] theBoard;
 
 	public Board(int rows, int columns) {
 		this.rows = rows;
@@ -22,6 +22,10 @@ public abstract class Board {
 
 	public char getCell(int x, int y) {
 		return theBoard[x][y];
+	}
+
+	public void setCell(int x, int y, char symbol) {
+		theBoard[x][y] = symbol;
 	}
 
 	public int getWidth() {
