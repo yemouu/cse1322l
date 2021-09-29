@@ -8,6 +8,7 @@ Assignment#: 5
 */
 
 // 2021-09-20
+// 2021-09-24
 
 public abstract class Board {
 	private int rows, columns;

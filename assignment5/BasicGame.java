@@ -7,6 +7,9 @@ Name:        Kofi Hannam
 Assignment#: 5
 */
 
+// 2021-09-20
+// 2021-09-24
+
 public class BasicGame implements IMove {
 	private int x, y;
 	private Board myBoard;
