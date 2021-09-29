@@ -35,6 +35,7 @@ All of my submissions are licensed under the public domain.
   - [Lab 6](lab6)
   - [Assignment 5](assignment5)
   - [Lab 7](lab7)
+  - [Assignment 6](assignment6)
 
 ## My Setup
 The tools I used to complete this class.

@@ -1,0 +1,53 @@
+2021-09-29
+openjdk version "11.0.12" 2021-07-20
+OpenJDK Runtime Environment (build 11.0.12+5-void-r2)
+OpenJDK 64-Bit Server VM (build 11.0.12+5-void-r2, mixed mode)
+--- Output ---
+
+What type of ticket do you wish to sell
+1. BasicEconomy
+2. Economy Class
+3. Business Class
+4. First Class
+5. Quit
+How many carry on bags?
+How many checked bags?
+Passenger Name?
+What type of ticket do you wish to sell
+1. BasicEconomy
+2. Economy Class
+3. Business Class
+4. First Class
+5. Quit
+How many carry on bags?
+How many checked bags?
+Passenger Name?
+What type of ticket do you wish to sell
+1. BasicEconomy
+2. Economy Class
+3. Business Class
+4. First Class
+5. Quit
+How many carry on bags?
+How many checked bags?
+Passenger Name?
+What type of ticket do you wish to sell
+1. BasicEconomy
+2. Economy Class
+3. Business Class
+4. First Class
+5. Quit
+How many carry on bags?
+How many checked bags?
+Passenger Name?
+What type of ticket do you wish to sell
+1. BasicEconomy
+2. Economy Class
+3. Business Class
+4. First Class
+5. Quit
+Manifest:
+Jane has 1 carry on bags and 0 checked bags and paid $1000
+Paul has 1 carry on bags and 3 checked bags and paid $800
+Maeve has 1 carry on bags and 2 checked bags and paid $450
+Tim has 1 carry on bags and 0 checked bags and paid $250
