@@ -1,0 +1,83 @@
+2021-10-12
+openjdk version "11.0.12" 2021-07-20
+OpenJDK Runtime Environment (build 11.0.12+5-void-r2)
+OpenJDK 64-Bit Server VM (build 11.0.12+5-void-r2, mixed mode)
+--- Output ---
+
+Choose from the following:
+0.  Quit
+1.  Multiply 2 numbers
+2.  Div 2 numbers
+3.  Mod 2 numbers
+Enter first number
+Enter second number
+Answer: 15
+Choose from the following:
+0.  Quit
+1.  Multiply 2 numbers
+2.  Div 2 numbers
+3.  Mod 2 numbers
+Enter first number
+Enter second number
+Answer: 0
+Choose from the following:
+0.  Quit
+1.  Multiply 2 numbers
+2.  Div 2 numbers
+3.  Mod 2 numbers
+Enter first number
+Enter second number
+Answer: 3
+Choose from the following:
+0.  Quit
+1.  Multiply 2 numbers
+2.  Div 2 numbers
+3.  Mod 2 numbers
+Enter first number
+Enter second number
+Answer: 7
+Choose from the following:
+0.  Quit
+1.  Multiply 2 numbers
+2.  Div 2 numbers
+3.  Mod 2 numbers
+Enter first number
+Enter second number
+Answer: -1
+Choose from the following:
+0.  Quit
+1.  Multiply 2 numbers
+2.  Div 2 numbers
+3.  Mod 2 numbers
+Enter first number
+Enter second number
+Answer: 0
+Choose from the following:
+0.  Quit
+1.  Multiply 2 numbers
+2.  Div 2 numbers
+3.  Mod 2 numbers
+Enter first number
+Enter second number
+Answer: 1
+Choose from the following:
+0.  Quit
+1.  Multiply 2 numbers
+2.  Div 2 numbers
+3.  Mod 2 numbers
+Enter first number
+Enter second number
+Answer: 1
+Choose from the following:
+0.  Quit
+1.  Multiply 2 numbers
+2.  Div 2 numbers
+3.  Mod 2 numbers
+Enter first number
+Enter second number
+Answer: -1
+Choose from the following:
+0.  Quit
+1.  Multiply 2 numbers
+2.  Div 2 numbers
+3.  Mod 2 numbers

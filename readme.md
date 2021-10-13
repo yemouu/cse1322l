@@ -36,6 +36,9 @@ All of my submissions are licensed under the public domain.
   - [Assignment 5](assignment5)
   - [Lab 7](lab7)
   - [Assignment 6](assignment6)
+  - [Lab 9](lab9)
+
+Note: Lab 8 and Assignment 7 will not be found here. They were done in a weird way and im too lazy to make any sense of it
 
 ## My Setup
 The tools I used to complete this class.
