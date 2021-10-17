@@ -37,6 +37,7 @@ All of my submissions are licensed under the public domain.
   - [Lab 7](lab7)
   - [Assignment 6](assignment6)
   - [Lab 9](lab9)
+  - [Assignment 8](assignment8)
 
 Note: Lab 8 and Assignment 7 will not be found here. They were done in a weird way and im too lazy to make any sense of it
 
@@ -53,4 +54,8 @@ The tools I used to complete this class.
   - 2021-09-19
     - Editor: Kakoune/Replit/IntelliJ
     - Java Version: openjdk 11.0.12/openjdk 11.0.11/openjdk 16.0.2
+    - OS: Linux/Windows 10
+  - 2021-09-19
+    - Editor: Kakoune/Replit/IntelliJ
+    - Java Version: openjdk 17/openjdk 11.0.11/openjdk 16.0.2
     - OS: Linux/Windows 10
