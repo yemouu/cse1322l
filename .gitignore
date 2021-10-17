@@ -1,9 +1,15 @@
+# IntelliJ files
 *.class
 .idea
 *.iml
 out
+
+# jdtls (Java LSP)
+.jdtls
+
 # Our Graduate Teaching Assitant wants all classes in one file...
 submission-ready
+
 # The way we were told to do these assignments were kinda wack (gui)
 assignment7
 lab8
