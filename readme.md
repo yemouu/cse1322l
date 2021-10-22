@@ -59,3 +59,8 @@ The tools I used to complete this class.
     - Editor: Kakoune/Replit/IntelliJ
     - Java Version: openjdk 17/openjdk 11.0.11/openjdk 16.0.2
     - OS: Linux/Windows 10
+  - 2021-10-22
+    - Editor: Kakoune/Replit/IntelliJ
+    - Java Version: openjdk 17/openjdk 11.0.11/openjdk 16.0.2
+    - OS: Linux/Windows 10
+    - Formatter: [google-java-format 1.12.0](https://github.com/google/google-java-format)
