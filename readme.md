@@ -38,6 +38,7 @@ All of my submissions are licensed under the public domain.
   - [Assignment 6](assignment6)
   - [Lab 9](lab9)
   - [Assignment 8](assignment8)
+  - [Lab 10](lab10)
 
 Note: Lab 8 and Assignment 7 will not be found here. They were done in a weird way and im too lazy to make any sense of it
 
@@ -60,7 +61,7 @@ The tools I used to complete this class.
     - Java Version: openjdk 17/openjdk 11.0.11/openjdk 16.0.2
     - OS: Linux/Windows 10
   - 2021-10-22
-    - Editor: Kakoune/Replit/IntelliJ
-    - Java Version: openjdk 17/openjdk 11.0.11/openjdk 16.0.2
-    - OS: Linux/Windows 10
+    - Editor: Kakoune
+    - Java Version: openjdk 17
+    - OS: Linux
     - Formatter: [google-java-format 1.12.0](https://github.com/google/google-java-format)

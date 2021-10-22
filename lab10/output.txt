@@ -1,0 +1,130 @@
+2021-10-22
+openjdk version "17" 2021-09-14
+OpenJDK Runtime Environment Temurin-17+35 (build 17+35)
+OpenJDK 64-Bit Server VM Temurin-17+35 (build 17+35, mixed mode, sharing)
+--- Output ---
+
+
+--- Run 1 ---
+I must study recursion until it makes sense
+I must study recursion until it makes sense
+I must study recursion until it makes sense
+I must study recursion until it makes sense
+I must study recursion until it makes sense
+I must study recursion until it makes sense
+I must study recursion until it makes sense
+I must study recursion until it makes sense
+I must study recursion until it makes sense
+I must study recursion until it makes sense
+I must study recursion until it makes sense
+I must study recursion until it makes sense
+I must study recursion until it makes sense
+I must study recursion until it makes sense
+I must study recursion until it makes sense
+I must study recursion until it makes sense
+I must study recursion until it makes sense
+I must study recursion until it makes sense
+I must study recursion until it makes sense
+I must study recursion until it makes sense
+I must study recursion until it makes sense
+I must study recursion until it makes sense
+I must study recursion until it makes sense
+I must study recursion until it makes sense
+I must study recursion until it makes sense
+I must study recursion until it makes sense
+I must study recursion until it makes sense
+I must study recursion until it makes sense
+I must study recursion until it makes sense
+I must study recursion until it makes sense
+I must study recursion until it makes sense
+I must study recursion until it makes sense
+I must study recursion until it makes sense
+I must study recursion until it makes sense
+I must study recursion until it makes sense
+I must study recursion until it makes sense
+I must study recursion until it makes sense
+I must study recursion until it makes sense
+I must study recursion until it makes sense
+I must study recursion until it makes sense
+I must study recursion until it makes sense
+I must study recursion until it makes sense
+I must study recursion until it makes sense
+I must study recursion until it makes sense
+I must study recursion until it makes sense
+I must study recursion until it makes sense
+I must study recursion until it makes sense
+I must study recursion until it makes sense
+I must study recursion until it makes sense
+I must study recursion until it makes sense
+I must study recursion until it makes sense
+I must study recursion until it makes sense
+I must study recursion until it makes sense
+I must study recursion until it makes sense
+I must study recursion until it makes sense
+I must study recursion until it makes sense
+I must study recursion until it makes sense
+I must study recursion until it makes sense
+I must study recursion until it makes sense
+I must study recursion until it makes sense
+I must study recursion until it makes sense
+I must study recursion until it makes sense
+I must study recursion until it makes sense
+I must study recursion until it makes sense
+I must study recursion until it makes sense
+I must study recursion until it makes sense
+I must study recursion until it makes sense
+I must study recursion until it makes sense
+I must study recursion until it makes sense
+I must study recursion until it makes sense
+I must study recursion until it makes sense
+I must study recursion until it makes sense
+I must study recursion until it makes sense
+I must study recursion until it makes sense
+I must study recursion until it makes sense
+I must study recursion until it makes sense
+I must study recursion until it makes sense
+I must study recursion until it makes sense
+I must study recursion until it makes sense
+I must study recursion until it makes sense
+I must study recursion until it makes sense
+I must study recursion until it makes sense
+I must study recursion until it makes sense
+I must study recursion until it makes sense
+I must study recursion until it makes sense
+I must study recursion until it makes sense
+I must study recursion until it makes sense
+I must study recursion until it makes sense
+I must study recursion until it makes sense
+I must study recursion until it makes sense
+I must study recursion until it makes sense
+I must study recursion until it makes sense
+I must study recursion until it makes sense
+I must study recursion until it makes sense
+I must study recursion until it makes sense
+I must study recursion until it makes sense
+I must study recursion until it makes sense
+I must study recursion until it makes sense
+I must study recursion until it makes sense
+I must study recursion until it makes sense
+
+Enter the first string
+Enter the second string
+abcd is the reverse of dcba
+
+--- Run 2 ---
+Skipping first 100 lines...
+Enter the first string
+Enter the second string
+a is the reverse of a
+
+--- Run 3 ---
+Skipping first 100 lines...
+Enter the first string
+Enter the second string
+abcd is not the reverse of ddba
+
+--- Run 4 ---
+Skipping first 100 lines...
+Enter the first string
+Enter the second string
+ is the reverse of 
