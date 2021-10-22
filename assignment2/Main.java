@@ -13,78 +13,71 @@ Assignment#: 2
 import java.util.Scanner;
 
 public class Main {
-	public static void main(String[] args) {
-		int length;
-		int selection;
+  public static void main(String[] args) {
+    int length;
+    int selection;
 
-		String inWord;
-		Scanner input = new Scanner(System.in);
-		English english = new English();
+    String inWord;
+    Scanner input = new Scanner(System.in);
+    English english = new English();
 
-		System.out.println("How many letters are in the word?");
-		length = input.nextInt();
-		input.nextLine();
+    System.out.println("How many letters are in the word?");
+    length = input.nextInt();
+    input.nextLine();
 
-		do {
-			System.out.println("Do you want me to look for letters or a pattern?\n"
-			                   + "1. Letters\n"
-			                   + "2. Pattern");
-			selection = input.nextInt();
-			input.nextLine();
-		} while((selection != 1) && (selection != 2)) ;
+    do {
+      System.out.println(
+          "Do you want me to look for letters or a pattern?\n" + "1. Letters\n" + "2. Pattern");
+      selection = input.nextInt();
+      input.nextLine();
+    } while ((selection != 1) && (selection != 2));
 
-		if (selection == 1) {
-			System.out.println("What letters are in the word?");
-			inWord = input.nextLine();
-			System.out.println("It might be any of these...");
-			guessWordWithLetters(english, length, inWord);
-		} else if (selection == 2) {
-			System.out.println("What pattern is in the word?");
-			inWord = input.nextLine();
-			System.out.println("It might be any of these...");
-			guessWordWithPattern(english, length, inWord);
-		}
-	}
+    if (selection == 1) {
+      System.out.println("What letters are in the word?");
+      inWord = input.nextLine();
+      System.out.println("It might be any of these...");
+      guessWordWithLetters(english, length, inWord);
+    } else if (selection == 2) {
+      System.out.println("What pattern is in the word?");
+      inWord = input.nextLine();
+      System.out.println("It might be any of these...");
+      guessWordWithPattern(english, length, inWord);
+    }
+  }
 
-	public static boolean wordContainsLetter(String word, char letter) {
-		char[] wordCharArray = word.toCharArray();
+  public static boolean wordContainsLetter(String word, char letter) {
+    char[] wordCharArray = word.toCharArray();
 
-		for (char l : wordCharArray)
-			if (l == letter)
-				return true;
-		return false;
-	}
+    for (char l : wordCharArray) if (l == letter) return true;
+    return false;
+  }
 
-	public static boolean wordContainsString(String word, String pattern) {
-		return word.contains(pattern);
-	}
+  public static boolean wordContainsString(String word, String pattern) {
+    return word.contains(pattern);
+  }
 
-	public static void guessWordWithLetters(English english, int length, String letters) {
-		char[] lettersArray = letters.toCharArray();
+  public static void guessWordWithLetters(English english, int length, String letters) {
+    char[] lettersArray = letters.toCharArray();
 
-		for (String word : english.words) {
-			if (word.length() != length)
-				continue;
+    for (String word : english.words) {
+      if (word.length() != length) continue;
 
-			boolean print = true;
-			for (char letter : lettersArray)
-				if (! wordContainsLetter(word, letter)) {
-					print = false;
-					break;
-				}
+      boolean print = true;
+      for (char letter : lettersArray)
+        if (!wordContainsLetter(word, letter)) {
+          print = false;
+          break;
+        }
 
-			if (print)
-				System.out.println(word);
-		}
-	}
+      if (print) System.out.println(word);
+    }
+  }
 
-	public static void guessWordWithPattern(English english, int length, String pattern) {
-		for (String word : english.words) {
-			if (word.length() != length)
-				continue;
+  public static void guessWordWithPattern(English english, int length, String pattern) {
+    for (String word : english.words) {
+      if (word.length() != length) continue;
 
-			if (wordContainsString(word, pattern))
-				System.out.println(word);
-		}
-	}
+      if (wordContainsString(word, pattern)) System.out.println(word);
+    }
+  }
 }

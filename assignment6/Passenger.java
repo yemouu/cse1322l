@@ -11,19 +11,18 @@ Assignment#: 6
 // 2021-09-28
 
 public class Passenger {
-	public String name;
-	public int carryOnBags;
-	public int checkedBags;
+  public String name;
+  public int carryOnBags;
+  public int checkedBags;
 
-	public Passenger(String name, int carryOnBags, int checkedBags) {
-		this.name = name;
-		this.carryOnBags = carryOnBags;
-		this.checkedBags = checkedBags;
-	}
+  public Passenger(String name, int carryOnBags, int checkedBags) {
+    this.name = name;
+    this.carryOnBags = carryOnBags;
+    this.checkedBags = checkedBags;
+  }
 
-	@Override
-	public String toString() {
-		return name + " has " + carryOnBags + " carry on bags and "
-		       + checkedBags + " checked bags";
-	}
+  @Override
+  public String toString() {
+    return name + " has " + carryOnBags + " carry on bags and " + checkedBags + " checked bags";
+  }
 }

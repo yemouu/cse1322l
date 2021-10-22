@@ -10,11 +10,11 @@ Lab#:        7
 // 2021-09-19
 
 interface CalcOp {
-	float add(float a, float b);
+  float add(float a, float b);
 
-	float subtract(float a, float b);
+  float subtract(float a, float b);
 
-	float multiply(float a, float b);
+  float multiply(float a, float b);
 
-	float divide(float a, float b);
+  float divide(float a, float b);
 }

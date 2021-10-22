@@ -10,8 +10,11 @@ Assignment#: 5
 // 2021-09-20
 
 public interface IMove {
-	boolean moveUp();
-	boolean moveDown();
-	boolean moveLeft();
-	boolean moveRight();
+  boolean moveUp();
+
+  boolean moveDown();
+
+  boolean moveLeft();
+
+  boolean moveRight();
 }

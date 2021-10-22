@@ -10,28 +10,28 @@ Lab#:        5
 // 2021-09-10
 
 public abstract class Item {
-	private String title;
+  private String title;
 
-	public Item() {
-		title = "";
-	}
+  public Item() {
+    title = "";
+  }
 
-	public Item (String title) {
-		this.title = title;
-	}
+  public Item(String title) {
+    this.title = title;
+  }
 
-	public abstract String getListing();
+  public abstract String getListing();
 
-	public String getTitle(){
-		return title;
-	}
+  public String getTitle() {
+    return title;
+  }
 
-	public void setTitle(String title){
-		this.title =  title;
-	}
+  public void setTitle(String title) {
+    this.title = title;
+  }
 
-	@Override
-	public String toString() {
-		return title;
-	}
+  @Override
+  public String toString() {
+    return title;
+  }
 }

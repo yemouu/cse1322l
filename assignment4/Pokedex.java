@@ -13,20 +13,20 @@ Assignment#: 4
 import java.util.ArrayList;
 
 public class Pokedex {
-	private ArrayList<Pokemon> myPokedex = new ArrayList<Pokemon>();
+  private ArrayList<Pokemon> myPokedex = new ArrayList<Pokemon>();
 
-	public void addToDex(Pokemon pokemon) {
-		myPokedex.add(pokemon);
-	}
+  public void addToDex(Pokemon pokemon) {
+    myPokedex.add(pokemon);
+  }
 
-	@Override
-	public String toString() {
-		String returnString = "";
+  @Override
+  public String toString() {
+    String returnString = "";
 
-		for (Pokemon pokemon : myPokedex) {
-			returnString += pokemon + "\n";
-		}
+    for (Pokemon pokemon : myPokedex) {
+      returnString += pokemon + "\n";
+    }
 
-		return returnString;
-	}
+    return returnString;
+  }
 }

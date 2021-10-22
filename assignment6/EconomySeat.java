@@ -10,7 +10,7 @@ Assignment#: 6
 // 2021-09-28
 
 public class EconomySeat extends Seat {
-	public EconomySeat(Passenger passenger) {
-		super(passenger, "Economy");
-	}
+  public EconomySeat(Passenger passenger) {
+    super(passenger, "Economy");
+  }
 }

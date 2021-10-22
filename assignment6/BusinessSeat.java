@@ -10,7 +10,7 @@ Assignment#: 6
 // 2021-09-28
 
 public class BusinessSeat extends Seat {
-	public BusinessSeat(Passenger passenger) {
-		super(passenger, "Business");
-	}
+  public BusinessSeat(Passenger passenger) {
+    super(passenger, "Business");
+  }
 }

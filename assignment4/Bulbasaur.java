@@ -11,12 +11,12 @@ Assignment#: 4
 // 2021-09-17
 
 public class Bulbasaur extends Pokemon {
-	public Bulbasaur(int level) {
-		super(level, 0.2);
-	}
+  public Bulbasaur(int level) {
+    super(level, 0.2);
+  }
 
-	@Override
-	public String toString() {
-		return "A level " + getLevel() + " Bulbasaur";
-	}
+  @Override
+  public String toString() {
+    return "A level " + getLevel() + " Bulbasaur";
+  }
 }

@@ -14,58 +14,58 @@ import java.util.ArrayList;
 import java.util.Scanner;
 
 public class Main {
-	public static void main(String[] args) {
-		int selection, carryOn, checkedBags;
+  public static void main(String[] args) {
+    int selection, carryOn, checkedBags;
 
-		String name;
+    String name;
 
-		ArrayList<Seat> seats = new ArrayList<Seat>();
-		Scanner input = new Scanner(System.in);
+    ArrayList<Seat> seats = new ArrayList<Seat>();
+    Scanner input = new Scanner(System.in);
 
-		Passenger passenger;
+    Passenger passenger;
 
-		do {
-			System.out.println("What type of ticket do you wish to sell\n"
-			                   + "1. BasicEconomy\n"
-			                   + "2. Economy Class\n"
-			                   + "3. Business Class\n"
-			                   + "4. First Class\n"
-			                   + "5. Quit");
-			selection = input.nextInt();
+    do {
+      System.out.println(
+          "What type of ticket do you wish to sell\n"
+              + "1. BasicEconomy\n"
+              + "2. Economy Class\n"
+              + "3. Business Class\n"
+              + "4. First Class\n"
+              + "5. Quit");
+      selection = input.nextInt();
 
-			if (selection != 5) {
-				System.out.println("How many carry on bags?");
-				carryOn = input.nextInt();
-				input.nextLine();
+      if (selection != 5) {
+        System.out.println("How many carry on bags?");
+        carryOn = input.nextInt();
+        input.nextLine();
 
-				System.out.println("How many checked bags?");
-				checkedBags = input.nextInt();
-				input.nextLine();
+        System.out.println("How many checked bags?");
+        checkedBags = input.nextInt();
+        input.nextLine();
 
-				System.out.println("Passenger Name?");
-				name = input.nextLine();
+        System.out.println("Passenger Name?");
+        name = input.nextLine();
 
-				passenger = new Passenger(name, carryOn, checkedBags);
+        passenger = new Passenger(name, carryOn, checkedBags);
 
-				switch(selection) {
-					case 1:
-						seats.add(new BasicEconomySeat(passenger));
-						break;
-					case 2:
-						seats.add(new EconomySeat(passenger));
-						break;
-					case 3:
-						seats.add(new BusinessSeat(passenger));
-						break;
-					case 4:
-						seats.add(new FirstClassSeat(passenger));
-						break;
-				}
-			}
-		} while(selection != 5);
+        switch (selection) {
+          case 1:
+            seats.add(new BasicEconomySeat(passenger));
+            break;
+          case 2:
+            seats.add(new EconomySeat(passenger));
+            break;
+          case 3:
+            seats.add(new BusinessSeat(passenger));
+            break;
+          case 4:
+            seats.add(new FirstClassSeat(passenger));
+            break;
+        }
+      }
+    } while (selection != 5);
 
-		System.out.println("Manifest:");
-		for (Seat s : seats)
-			System.out.println(s);
-	}
+    System.out.println("Manifest:");
+    for (Seat s : seats) System.out.println(s);
+  }
 }

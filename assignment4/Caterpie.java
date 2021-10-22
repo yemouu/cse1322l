@@ -11,13 +11,13 @@ Assignment#: 4
 // 2021-09-17
 
 public class Caterpie extends Pokemon {
-	public Caterpie(int level) {
-		// Rubric states 0.2 but instructions states 0.5 as the baseCatchRate
-		super(level, 0.5);
-	}
+  public Caterpie(int level) {
+    // Rubric states 0.2 but instructions states 0.5 as the baseCatchRate
+    super(level, 0.5);
+  }
 
-	@Override
-	public String toString() {
-		return "A level " + getLevel() + " Caterpie";
-	}
+  @Override
+  public String toString() {
+    return "A level " + getLevel() + " Caterpie";
+  }
 }

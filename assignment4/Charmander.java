@@ -10,12 +10,12 @@ Assignment#: 4
 // 2021-09-13
 
 public class Charmander extends Pokemon {
-	public Charmander(int level) {
-		super(level, 0.2);
-	}
+  public Charmander(int level) {
+    super(level, 0.2);
+  }
 
-	@Override
-	public String toString() {
-		return "A level " + getLevel() + " Charmander";
-	}
+  @Override
+  public String toString() {
+    return "A level " + getLevel() + " Charmander";
+  }
 }

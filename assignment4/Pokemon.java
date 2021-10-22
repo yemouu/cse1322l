@@ -10,19 +10,19 @@ Assignment#: 4
 // 2021-09-13
 
 public class Pokemon {
-	private int level;
-	private double baseCatchRate;
+  private int level;
+  private double baseCatchRate;
 
-	public Pokemon(int level, double baseCatchRate) {
-		this.level = level;
-		this.baseCatchRate = baseCatchRate;
-	}
+  public Pokemon(int level, double baseCatchRate) {
+    this.level = level;
+    this.baseCatchRate = baseCatchRate;
+  }
 
-	public int getLevel() {
-		return level;
-	}
+  public int getLevel() {
+    return level;
+  }
 
-	public double getBaseCatchRate() {
-		return baseCatchRate;
-	}
+  public double getBaseCatchRate() {
+    return baseCatchRate;
+  }
 }

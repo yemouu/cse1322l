@@ -10,8 +10,8 @@ Assignment#: 5
 // 2021-09-20
 
 public class Board8x8 extends Board {
-	public Board8x8() {
-		super(8, 8);
-		initializeBoard(' ');
-	}
+  public Board8x8() {
+    super(8, 8);
+    initializeBoard(' ');
+  }
 }

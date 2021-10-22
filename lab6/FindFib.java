@@ -10,5 +10,5 @@ Lab#:        6
 // 2021-09-19
 
 interface FindFib {
-	public int calculate_fib(int n);
+  public int calculate_fib(int n);
 }

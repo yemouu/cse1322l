@@ -10,7 +10,7 @@ Assignment#: 6
 // 2021-09-28
 
 public class FirstClassSeat extends Seat {
-	public FirstClassSeat(Passenger passenger) {
-		super(passenger, "First");
-	}
+  public FirstClassSeat(Passenger passenger) {
+    super(passenger, "First");
+  }
 }
