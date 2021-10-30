@@ -41,6 +41,7 @@ All of my submissions are licensed under the public domain.
   - [Lab 10](lab10)
   - [Assignment 9](assignment09)
   - [Lab 11](lab11)
+  - [Assignment 10](assignment10)
 
 Note: Lab 8 and Assignment 7 will not be found here. They were done in a weird way and im too lazy to make any sense of it
 
