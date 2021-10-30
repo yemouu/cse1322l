@@ -1,0 +1,95 @@
+2021-10-22
+openjdk version "17" 2021-09-14
+OpenJDK Runtime Environment Temurin-17+35 (build 17+35)
+OpenJDK 64-Bit Server VM Temurin-17+35 (build 17+35, mixed mode, sharing)
+--- Output ---
+
+1. Sold One Milk
+2. Sold One Bread
+3. Change price of Milk
+4. Change price of Bread
+5. Add Milk to Inventory
+6. Add Bread to Inventory
+7. See Inventory
+8. Quit
+
+Item number: 0 is 1 Gallon of Milk has 3.60 we currently have 15 in stock
+Item number: 1 is 1 Loaf of Bread has 1.98 we currently have 30 in stock
+1. Sold One Milk
+2. Sold One Bread
+3. Change price of Milk
+4. Change price of Bread
+5. Add Milk to Inventory
+6. Add Bread to Inventory
+7. See Inventory
+8. Quit
+
+1. Sold One Milk
+2. Sold One Bread
+3. Change price of Milk
+4. Change price of Bread
+5. Add Milk to Inventory
+6. Add Bread to Inventory
+7. See Inventory
+8. Quit
+
+1. Sold One Milk
+2. Sold One Bread
+3. Change price of Milk
+4. Change price of Bread
+5. Add Milk to Inventory
+6. Add Bread to Inventory
+7. See Inventory
+8. Quit
+
+1. Sold One Milk
+2. Sold One Bread
+3. Change price of Milk
+4. Change price of Bread
+5. Add Milk to Inventory
+6. Add Bread to Inventory
+7. See Inventory
+8. Quit
+
+What is the new price for Milk
+1. Sold One Milk
+2. Sold One Bread
+3. Change price of Milk
+4. Change price of Bread
+5. Add Milk to Inventory
+6. Add Bread to Inventory
+7. See Inventory
+8. Quit
+
+Item number: 0 is 1 Gallon of Milk has 4.00 we currently have 13 in stock
+Item number: 1 is 1 Loaf of Bread has 1.98 we currently have 29 in stock
+1. Sold One Milk
+2. Sold One Bread
+3. Change price of Milk
+4. Change price of Bread
+5. Add Milk to Inventory
+6. Add Bread to Inventory
+7. See Inventory
+8. Quit
+
+How many bread did we get?
+1. Sold One Milk
+2. Sold One Bread
+3. Change price of Milk
+4. Change price of Bread
+5. Add Milk to Inventory
+6. Add Bread to Inventory
+7. See Inventory
+8. Quit
+
+Item number: 0 is 1 Gallon of Milk has 4.00 we currently have 13 in stock
+Item number: 1 is 1 Loaf of Bread has 1.98 we currently have 34 in stock
+1. Sold One Milk
+2. Sold One Bread
+3. Change price of Milk
+4. Change price of Bread
+5. Add Milk to Inventory
+6. Add Bread to Inventory
+7. See Inventory
+8. Quit
+

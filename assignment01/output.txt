@@ -1,0 +1,309 @@
+2021-10-22
+openjdk version "17" 2021-09-14
+OpenJDK Runtime Environment Temurin-17+35 (build 17+35)
+OpenJDK 64-Bit Server VM Temurin-17+35 (build 17+35, mixed mode, sharing)
+--- Output ---
+
+--- Run 1 ---
+$100.00 in $20.00 notes
+$20.00 in $10.00 notes
+$60.00 in $5.00 notes
+$33.00 in $1.00 notes
+$0.00 in $0.25 coins
+$4.10 in $0.10 coins
+$0.85 in $0.05 coins
+$1.32 in $0.01 coins
+Total Money is $219.27 total weight is 17.888oz
+How much do you need?
+Give them a $20 note
+Give them a $20 note
+Give them a $1 note
+Give them a $1 note
+Give them a dime
+Give them a dime
+Give them a dime
+Give them a dime
+Give them a nickel
+Give them a penny
+Give them a penny
+I have $176.80 left, it's total weight is 17.216oz
+
+--- Run 2 ---
+$100.00 in $20.00 notes
+$20.00 in $10.00 notes
+$60.00 in $5.00 notes
+$33.00 in $1.00 notes
+$0.00 in $0.25 coins
+$4.10 in $0.10 coins
+$0.85 in $0.05 coins
+$1.32 in $0.01 coins
+Total Money is $219.27 total weight is 17.888oz
+How much do you need?
+Give them a $10 note
+Give them a $5 note
+Give them a $1 note
+Give them a $1 note
+Give them a $1 note
+Give them a $1 note
+Give them a dime
+Give them a dime
+Give them a nickel
+Give them a penny
+Give them a penny
+I have $200.00 left, it's total weight is 17.376oz
+
+--- Run 3 ---
+$100.00 in $20.00 notes
+$20.00 in $10.00 notes
+$60.00 in $5.00 notes
+$33.00 in $1.00 notes
+$0.00 in $0.25 coins
+$4.10 in $0.10 coins
+$0.85 in $0.05 coins
+$1.32 in $0.01 coins
+Total Money is $219.27 total weight is 17.888oz
+How much do you need?
+Give them a $20 note
+Give them a $20 note
+Give them a $20 note
+Give them a $20 note
+Give them a $20 note
+Give them a $10 note
+Give them a $10 note
+Give them a $5 note
+Give them a $5 note
+Give them a $5 note
+Give them a $5 note
+Give them a $5 note
+Give them a $5 note
+Give them a $5 note
+Give them a $5 note
+Give them a $5 note
+Give them a $5 note
+Give them a $5 note
+Give them a $5 note
+Give them a $1 note
+Give them a $1 note
+Give them a $1 note
+Give them a $1 note
+Give them a $1 note
+Give them a $1 note
+Give them a $1 note
+Give them a $1 note
+Give them a $1 note
+Give them a $1 note
+Give them a $1 note
+Give them a $1 note
+Give them a $1 note
+Give them a $1 note
+Give them a $1 note
+Give them a $1 note
+Give them a $1 note
+Give them a $1 note
+Give them a $1 note
+Give them a $1 note
+Give them a $1 note
+Give them a $1 note
+Give them a $1 note
+Give them a $1 note
+Give them a $1 note
+Give them a $1 note
+Give them a $1 note
+Give them a $1 note
+Give them a $1 note
+Give them a $1 note
+Give them a $1 note
+Give them a $1 note
+Give them a $1 note
+Give them a dime
+Give them a dime
+Give them a dime
+Give them a dime
+Give them a dime
+Give them a dime
+Give them a dime
+Give them a dime
+Give them a dime
+Give them a dime
+Give them a dime
+Give them a dime
+Give them a dime
+Give them a dime
+Give them a dime
+Give them a dime
+Give them a dime
+Give them a dime
+Give them a dime
+Give them a dime
+Give them a dime
+Give them a dime
+Give them a dime
+Give them a dime
+Give them a dime
+Give them a dime
+Give them a dime
+Give them a dime
+Give them a dime
+Give them a dime
+Give them a dime
+Give them a dime
+Give them a dime
+Give them a dime
+Give them a dime
+Give them a dime
+Give them a dime
+Give them a dime
+Give them a dime
+Give them a dime
+Give them a dime
+Give them a nickel
+Give them a nickel
+Give them a nickel
+Give them a nickel
+Give them a nickel
+Give them a nickel
+Give them a nickel
+Give them a nickel
+Give them a nickel
+Give them a nickel
+Give them a nickel
+Give them a nickel
+Give them a nickel
+Give them a nickel
+Give them a nickel
+Give them a nickel
+Give them a nickel
+Give them a penny
+Give them a penny
+Give them a penny
+Give them a penny
+Give them a penny
+Give them a penny
+Give them a penny
+Give them a penny
+Give them a penny
+Give them a penny
+Give them a penny
+Give them a penny
+Give them a penny
+Give them a penny
+Give them a penny
+Give them a penny
+Give them a penny
+Give them a penny
+Give them a penny
+Give them a penny
+Give them a penny
+Give them a penny
+Give them a penny
+Give them a penny
+Give them a penny
+Give them a penny
+Give them a penny
+Give them a penny
+Give them a penny
+Give them a penny
+Give them a penny
+Give them a penny
+Give them a penny
+Give them a penny
+Give them a penny
+Give them a penny
+Give them a penny
+Give them a penny
+Give them a penny
+Give them a penny
+Give them a penny
+Give them a penny
+Give them a penny
+Give them a penny
+Give them a penny
+Give them a penny
+Give them a penny
+Give them a penny
+Give them a penny
+Give them a penny
+Give them a penny
+Give them a penny
+Give them a penny
+Give them a penny
+Give them a penny
+Give them a penny
+Give them a penny
+Give them a penny
+Give them a penny
+Give them a penny
+Give them a penny
+Give them a penny
+Give them a penny
+Give them a penny
+Give them a penny
+Give them a penny
+Give them a penny
+Give them a penny
+Give them a penny
+Give them a penny
+Give them a penny
+Give them a penny
+Give them a penny
+Give them a penny
+Give them a penny
+Give them a penny
+Give them a penny
+Give them a penny
+Give them a penny
+Give them a penny
+Give them a penny
+Give them a penny
+Give them a penny
+Give them a penny
+Give them a penny
+Give them a penny
+Give them a penny
+Give them a penny
+Give them a penny
+Give them a penny
+Give them a penny
+Give them a penny
+Give them a penny
+Give them a penny
+Give them a penny
+Give them a penny
+Give them a penny
+Give them a penny
+Give them a penny
+Give them a penny
+Give them a penny
+Give them a penny
+Give them a penny
+Give them a penny
+Give them a penny
+Give them a penny
+Give them a penny
+Give them a penny
+Give them a penny
+Give them a penny
+Give them a penny
+Give them a penny
+Give them a penny
+Give them a penny
+Give them a penny
+Give them a penny
+Give them a penny
+Give them a penny
+Give them a penny
+Give them a penny
+Give them a penny
+Give them a penny
+Give them a penny
+Give them a penny
+Give them a penny
+Give them a penny
+Give them a penny
+Give them a penny
+Give them a penny
+Give them a penny
+Give them a penny
+Give them a penny
+I don't have enough money. I still owe you $0.83
+I have $0.00 left, it's total weight is 0.000oz
