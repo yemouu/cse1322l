@@ -23,22 +23,23 @@ DOMAIN.
 All of my submissions are licensed under the public domain.
 
 ## Assignments
-  - [Lab 1](lab1)
-  - [Assignment 1](assignment1)
-  - [Lab 2](lab2)
-  - [Lab 3](lab3)
-  - [Assignment 2](assignment2)
-  - [Lab 4](lab4)
-  - [Assignment 3](assignment3)
-  - [Lab 5](lab5)
-  - [Assignment 4](assignment4)
-  - [Lab 6](lab6)
-  - [Assignment 5](assignment5)
-  - [Lab 7](lab7)
-  - [Assignment 6](assignment6)
-  - [Lab 9](lab9)
-  - [Assignment 8](assignment8)
+  - [Lab 1](lab01)
+  - [Assignment 1](assignment01)
+  - [Lab 2](lab02)
+  - [Lab 3](lab03)
+  - [Assignment 2](assignment02)
+  - [Lab 4](lab04)
+  - [Assignment 3](assignment03)
+  - [Lab 5](lab05)
+  - [Assignment 4](assignment04)
+  - [Lab 6](lab06)
+  - [Assignment 5](assignment05)
+  - [Lab 7](lab07)
+  - [Assignment 6](assignment06)
+  - [Lab 9](lab09)
+  - [Assignment 8](assignment08)
   - [Lab 10](lab10)
+  - [Assignment 9](assignment09)
 
 Note: Lab 8 and Assignment 7 will not be found here. They were done in a weird way and im too lazy to make any sense of it
 
