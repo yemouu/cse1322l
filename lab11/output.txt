@@ -1,0 +1,40 @@
+2021-10-30
+openjdk version "17" 2021-09-14
+OpenJDK Runtime Environment Temurin-17+35 (build 17+35)
+OpenJDK 64-Bit Server VM Temurin-17+35 (build 17+35, mixed mode, sharing)
+--- Output ---
+
+
+--- Run 1 ---
+Enter time 1 in 24hr format as follows (HH:MM:SS)
+Enter time 2 in 24hr format as follows (HH:MM:SS)
+Difference in seconds: 16201
+
+--- Run 2 ---
+Enter time 1 in 24hr format as follows (HH:MM:SS)
+InvalidTimeException: Hours must be below 24
+
+--- Run 3 ---
+Enter time 1 in 24hr format as follows (HH:MM:SS)
+InvalidTimeException: Time must be formatted in HH:MM:SS
+
+
+--- Run 4 ---
+Enter time 1 in 24hr format as follows (HH:MM:SS)
+InvalidTimeException: Minutes must be below 60
+
+--- Run 5 ---
+Enter time 1 in 24hr format as follows (HH:MM:SS)
+Enter time 2 in 24hr format as follows (HH:MM:SS)
+InvalidTimeException: Seconds must be below 60
+
+--- Run 6 ---
+Enter time 1 in 24hr format as follows (HH:MM:SS)
+InvalidTimeException: Time must be formatted in HH:MM:SS
+
+
+--- Run 7 ---
+Enter time 1 in 24hr format as follows (HH:MM:SS)
+Enter time 2 in 24hr format as follows (HH:MM:SS)
+InvalidTimeException: Time must be formatted in HH:MM:SS
+
