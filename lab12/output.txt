@@ -1,0 +1,60 @@
+2021-11-07
+openjdk version "17" 2021-09-14
+OpenJDK Runtime Environment Temurin-17+35 (build 17+35)
+OpenJDK 64-Bit Server VM Temurin-17+35 (build 17+35, mixed mode, sharing)
+--- Output ---
+
+
+--- Run 1 ---
+Name of first file:
+Name of second file:
+Line 1
+< Humpty Dumpty sat on a wall
+> Humpty Dumpty tat on a wall
+Line 3
+< All the king's horses and all the king's men
+> All the king's horss and all the king's men
+
+--- Run 2 ---
+Name of first file:
+Name of second file:
+Line 2
+< a
+> 
+Line 3
+< b
+> 
+Line 4
+< c
+> 
+Line 5
+< d
+> 
+Line 6
+< e
+> 
+Line 7
+< f
+> 
+
+--- Run 3 ---
+Name of first file:
+Name of second file:
+Line 2
+< 
+> 1
+Line 3
+< 
+> 2
+Line 4
+< 
+> 3
+Line 5
+< 
+> 4
+Line 6
+< 
+> 5
+Line 7
+< 
+> 6
