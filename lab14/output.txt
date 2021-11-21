@@ -1,0 +1,32 @@
+2021-11-21
+openjdk version "17.0.1" 2021-10-19
+OpenJDK Runtime Environment Temurin-17.0.1+12 (build 17.0.1+12)
+OpenJDK 64-Bit Server VM Temurin-17.0.1+12 (build 17.0.1+12, mixed mode, sharing)
+--- Output ---
+
+0. Quit
+1. Add BlueRay to collection
+2. See collection
+What is the title?
+What is the director?
+What is the year of release?
+What is the cost?
+0. Quit
+1. Add BlueRay to collection
+2. See collection
+$19.95 1975 Jaws, Steven Spielberg
+0. Quit
+1. Add BlueRay to collection
+2. See collection
+What is the title?
+What is the director?
+What is the year of release?
+What is the cost?
+0. Quit
+1. Add BlueRay to collection
+2. See collection
+$19.95 1975 Jaws, Steven Spielberg
+$17.99 1993 Jurassic Park, Steven Spielberg
+0. Quit
+1. Add BlueRay to collection
+2. See collection
